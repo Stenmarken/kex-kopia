@@ -1,0 +1,86 @@
+best hyperparameters: {'dropout_1': 0.2, 'conv_2_filters_1': 128, 'conv_2_filters_2': 128}
+Trial 5 Complete [00h 36m 01s]
+val_accuracy: 0.980171412229538
+
+Best val_accuracy So Far: 0.980171412229538
+Total elapsed time: 02h 41m 17s
+INFO:tensorflow:Oracle triggered exit
+{'dropout_1': 0.2, 'conv_2_filters_1': 128, 'conv_2_filters_2': 128}
+Results summary
+Results in hyperparameters/5_2_cnn_filter_size_dropout
+Showing 10 best trials
+Objective(name="val_accuracy", direction="max")
+
+Trial 4 summary
+Hyperparameters:
+dropout_1: 0.2
+conv_2_filters_1: 128
+conv_2_filters_2: 128
+Score: 0.980171412229538
+
+Trial 3 summary
+Hyperparameters:
+dropout_1: 0.2
+conv_2_filters_1: 128
+conv_2_filters_2: 256
+Score: 0.9781714379787445
+
+Trial 2 summary
+Hyperparameters:
+dropout_1: 0.4
+conv_2_filters_1: 64
+conv_2_filters_2: 128
+Score: 0.9616000056266785
+
+Trial 0 summary
+Hyperparameters:
+dropout_1: 0.30000000000000004
+conv_2_filters_1: 32
+conv_2_filters_2: 256
+Score: 0.9584000110626221
+
+Trial 1 summary
+Hyperparameters:
+dropout_1: 0.5
+conv_2_filters_1: 64
+conv_2_filters_2: 32
+Score: 0.9126857221126556
+Results summary
+Results in hyperparameters/5_2_cnn_filter_size_dropout
+Showing 10 best trials
+Objective(name="val_accuracy", direction="max")
+
+Trial 4 summary
+Hyperparameters:
+dropout_1: 0.2
+conv_2_filters_1: 128
+conv_2_filters_2: 128
+Score: 0.980171412229538
+
+Trial 3 summary
+Hyperparameters:
+dropout_1: 0.2
+conv_2_filters_1: 128
+conv_2_filters_2: 256
+Score: 0.9781714379787445
+
+Trial 2 summary
+Hyperparameters:
+dropout_1: 0.4
+conv_2_filters_1: 64
+conv_2_filters_2: 128
+Score: 0.9616000056266785
+
+Trial 0 summary
+Hyperparameters:
+dropout_1: 0.30000000000000004
+conv_2_filters_1: 32
+conv_2_filters_2: 256
+Score: 0.9584000110626221
+
+Trial 1 summary
+Hyperparameters:
+dropout_1: 0.5
+conv_2_filters_1: 64
+conv_2_filters_2: 32
+Score: 0.9126857221126556

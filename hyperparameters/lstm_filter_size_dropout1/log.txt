@@ -1,0 +1,1 @@
+best hyperparameters: {'dropout_lstm': 0.5, 'lstm_layer_units_1': 128, 'lstm_layer_units_2': 128}

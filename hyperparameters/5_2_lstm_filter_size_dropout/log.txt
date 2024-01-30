@@ -1,0 +1,35 @@
+best hyperparameters: {'dropout_lstm': 0.30000000000000004, 'lstm_layer_units_1': 32, 'lstm_layer_units_2': 128}
+Trial 3 summary
+Hyperparameters:
+dropout_lstm: 0.30000000000000004
+lstm_layer_units_1: 32
+lstm_layer_units_2: 128
+Score: 0.9656571447849274
+
+Trial 4 summary
+Hyperparameters:
+dropout_lstm: 0.4
+lstm_layer_units_1: 64
+lstm_layer_units_2: 128
+Score: 0.9606857001781464
+
+Trial 0 summary
+Hyperparameters:
+dropout_lstm: 0.4
+lstm_layer_units_1: 128
+lstm_layer_units_2: 64
+Score: 0.9588000178337097
+
+Trial 1 summary
+Hyperparameters:
+dropout_lstm: 0.2
+lstm_layer_units_1: 32
+lstm_layer_units_2: 32
+Score: 0.9583999812602997
+
+Trial 2 summary
+Hyperparameters:
+dropout_lstm: 0.30000000000000004
+lstm_layer_units_1: 64
+lstm_layer_units_2: 32
+Score: 0.9566857218742371

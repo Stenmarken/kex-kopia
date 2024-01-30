@@ -1,0 +1,1 @@
+best hyperparameters: {'dropout_1': 0.1, 'conv_2_filters_1': 64, 'conv_2_filters_2': 64}
